@@ -1,4 +1,4 @@
 1.run Scraping.py it will get article_titles_fixing.txt and  article_titles.txt
 2.run StemmingAndIndexing.py i will show the weight of each words and save it on weights.csv
 3.run Querry.py and you can input query afyer that it will show similarity_scores and save it to similarity_scores.csv
-p.s i think you suppose to run on Anacinda via VScode and the same dir
+p.s i think you suppose to run on Anaconda via VScode and the same dir
